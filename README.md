@@ -17,33 +17,33 @@ How to install (Ubuntu):
 [![asciicast](https://asciinema.org/a/H07gMIrAZzvECti3fEbPSdHOE.svg)](https://asciinema.org/a/H07gMIrAZzvECti3fEbPSdHOE)
 
 You can find there 5 games. Which one do you prefer?
-
-##Brain Even<br>
-Successfully
+---
+###Brain Even<br>
+*Successfully*
 [![asciicast](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq.svg)](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq)
-Failed
+*Failed*
 [![asciicast](https://asciinema.org/a/qELqZZQiLcIgB3FDaHzlu2b36.svg)](https://asciinema.org/a/qELqZZQiLcIgB3FDaHzlu2b36)
-
-##Brain Calc<br>
-Successfully
+---
+###Brain Calc<br>
+*Successfully*
 [![asciicast](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq.svg)](https://asciinema.org/a/KawrYdkuOYPf3PjVnADTtAekq)
-Failed
+*Failed*
 [![asciicast](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3.svg)](https://asciinema.org/a/vxuH1Vda2KqAQAiMpwsB0Vqz3)
-
-##Brain GCD<br>
-Successfully
+---
+###Brain GCD<br>
+*Successfully*
 [![asciicast](https://asciinema.org/a/otoZusjF6VF1pjY6s1PCNOsJx.svg)](https://asciinema.org/a/otoZusjF6VF1pjY6s1PCNOsJx)
-Failed
+*Failed*
 [![asciicast](https://asciinema.org/a/xVmXuiqSl7cx3XGZwvhiZ9B1r.svg)](https://asciinema.org/a/xVmXuiqSl7cx3XGZwvhiZ9B1r)
-
-##Brain Progression<br>
-Successfully
+---
+###Brain Progression<br>
+*Successfully*
 [![asciicast](https://asciinema.org/a/1GtyJ4tZ9d7odAUI8cPPFszd2.svg)](https://asciinema.org/a/1GtyJ4tZ9d7odAUI8cPPFszd2)
-Failed
+*Failed*
 [![asciicast](https://asciinema.org/a/aLjmpcJLB7j8nKYF4UaPMeeZq.svg)](https://asciinema.org/a/aLjmpcJLB7j8nKYF4UaPMeeZq)
-
-##Brain Prime<br>
-Successfully
+---
+###Brain Prime<br>
+*Successfully*
 [![asciicast](https://asciinema.org/a/Kw0Vn1cK7DhcBeBlOMFo287YT.svg)](https://asciinema.org/a/Kw0Vn1cK7DhcBeBlOMFo287YT)
-Failed
+*Failed*
 [![asciicast](https://asciinema.org/a/iBjEKc5KkY74OcYSeKygOrZla.svg)](https://asciinema.org/a/iBjEKc5KkY74OcYSeKygOrZla)
