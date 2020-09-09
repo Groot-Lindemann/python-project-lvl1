@@ -1,13 +1,11 @@
-#!/usr/bin/env python3
-
-"""Running module for Brain Calc."""
+"""Running script for Brain Calc."""
 
 from brain_games import engine
 from brain_games.games import calc
 
 
 def main():
-    """Run Calc game."""
+    """Method to run Calc game."""
     engine.start_game(calc)
 
 

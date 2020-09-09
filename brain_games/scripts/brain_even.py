@@ -1,13 +1,13 @@
 #!/usr/bin/evn python3
 
-"""Running module for Brain Even."""
+"""Brain Even running script."""
 
 from brain_games import engine
 from brain_games.games import even
 
 
 def main():
-    """Run Even game"""
+    """Function to start the Even game"""
     engine.start_game(even)
 
 
