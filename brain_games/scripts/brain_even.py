@@ -1,5 +1,8 @@
-from brain_games import engine
-from brain_games.games import even
+#!/usr/bin/evn python3
+
+"""Running module for Brain Even"""
+
+from brain_games import engine, games
 
 
 def main():
