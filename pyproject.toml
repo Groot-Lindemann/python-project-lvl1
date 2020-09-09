@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "Groot-Lindemann_brain_games"
 version = "0.1.5"
-description = ""
+description = "A simple game containted 5 steps with different task"
+classifiers = "Environment :: Console"
 authors = ["Maxim <maxim.zeyfert@gmail.com>"]
+repository = "https://test.pypi.org/simple/ groot-lindemann-brain-games"
 packages = [
     { include = "brain_games" },
 ]
